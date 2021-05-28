@@ -1,2 +1,3 @@
-# open_cd_drive
-Open CD/DVD Drive
+# Open CD/DVD Drive
+
+Open CD/DVD drive from the application
